@@ -1,0 +1,4 @@
+.\src\MOS6502.v
+.\src\MOS6502_ALU.v
+.\src\MOS6502_IDec.v
+.\src\TestBench\tb_MOS6502.v

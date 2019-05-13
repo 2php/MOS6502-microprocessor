@@ -1,0 +1,11 @@
+elbread.dll ver. 1.0.5.375 Sun May 12 23:31:34 2019
+
+
+----------------------
+Module       | Library
+----------------------
+tb_P16C5x_v  | mos6502
+P16C5x       | mos6502
+P16C5x_IDec  | mos6502
+P16C5x_ALU   | mos6502
+----------------------
